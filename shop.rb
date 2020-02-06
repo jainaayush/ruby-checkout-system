@@ -1,0 +1,5 @@
+require 'rubocop'
+require 'json'
+require_relative 'cart'
+require_relative 'offer'
+require_relative 'product'
